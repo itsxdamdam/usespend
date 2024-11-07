@@ -25,5 +25,4 @@ function App() {
 
 const container = document.getElementById("root");
 const root = createRoot(container);
-console.log("idan");
 root.render(<App />);
