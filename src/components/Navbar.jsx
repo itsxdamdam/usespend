@@ -8,7 +8,7 @@ const Navbar = () => {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Link to="/" className="text-xl font-bold text-gray-800">
-              Stellar Remittance
+              usespend
             </Link>
           </div>
           <div className="flex items-center space-x-4">
